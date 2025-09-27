@@ -2,6 +2,6 @@
 https://apidocs.cheapshark.com/
 
 ## Hookers utilizados
-useState
-useEffect
+useState<br>
+useEffect<br>
 useReducer
